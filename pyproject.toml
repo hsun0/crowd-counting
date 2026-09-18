@@ -1,0 +1,18 @@
+[project]
+name = "people-counting"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pillow>=12.3.0",
+    "questionary>=2.1.1",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.15.3",
+    "torch>=2.14.0",
+    "torchvision>=0.29.0",
+    "tqdm>=4.70.1",
+]
